@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Drive",
+    "author": "Daniel H. Pink",
+    "description": "A compelling book on money.",
+    "genre": "Self-help",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000030-L.jpg",
+    "price": 692,
+    "rating": 3.6,
+    "id": "pazo"
+  },
+  {
+    "title": "Leaders Eat Last",
+    "author": "Simon Sinek",
+    "description": "A compelling book on growth.",
+    "genre": "Finance",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000031-L.jpg",
+    "price": 352,
+    "rating": 4.3,
+    "id": "okkz"
+  },
+  {
+    "title": "Principles",
+    "author": "Ray Dalio",
+    "description": "A compelling book on money.",
+    "genre": "Biography",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000032-L.jpg",
+    "price": 369,
+    "rating": 3.9,
+    "id": "fdox"
+  },
+  {
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "description": "A compelling book on business.",
+    "genre": "Business",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000033-L.jpg",
+    "price": 396,
+    "rating": 3.6,
+    "id": "zeot"
+  },
+  {
+    "title": "Quiet",
+    "author": "Susan Cain",
+    "description": "A compelling book on growth.",
+    "genre": "Finance",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000034-L.jpg",
+    "price": 655,
+    "rating": 3.6,
+    "id": "ihyj"
+  },
+  {
+    "title": "The One Thing",
+    "author": "Gary Keller",
+    "description": "A compelling book on money.",
+    "genre": "Psychology",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000035-L.jpg",
+    "price": 682,
+    "rating": 4.5,
+    "id": "jwxz"
+  },
+  {
+    "title": "Essentialism",
+    "author": "Greg McKeown",
+    "description": "A compelling book on business.",
+    "genre": "Psychology",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000036-L.jpg",
+    "price": 550,
+    "rating": 4.6,
+    "id": "stav"
+  },
+  {
+    "title": "The Miracle Morning",
+    "author": "Hal Elrod",
+    "description": "A compelling book on growth.",
+    "genre": "Finance",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000037-L.jpg",
+    "price": 757,
+    "rating": 4.0,
+    "id": "cjeo"
+  },
+  {
+    "title": "Blue Ocean Strategy",
+    "author": "W. Chan Kim",
+    "description": "A compelling book on life improvement.",
+    "genre": "Business",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000038-L.jpg",
+    "price": 460,
+    "rating": 4.7,
+    "id": "fins"
+  },
+  {
+    "title": "The 5 AM Club",
+    "author": "Robin Sharma",
+    "description": "A compelling book on focus.",
+    "genre": "Business",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000039-L.jpg",
+    "price": 593,
+    "rating": 4.0,
+    "id": "qdgg"
+  },
+  {
+    "title": "Unlimited Power",
+    "author": "Tony Robbins",
+    "description": "A compelling book on business.",
+    "genre": "Creativity",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000040-L.jpg",
+    "price": 800,
+    "rating": 4.7,
+    "id": "tsdv"
+  },
+  {
+    "title": "Flow",
+    "author": "Mihaly Csikszentmihalyi",
+    "description": "A compelling book on habits.",
+    "genre": "Business",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000041-L.jpg",
+    "price": 436,
+    "rating": 4.3,
+    "id": "jvzo"
+  },
+  {
+    "title": "The War of Art",
+    "author": "Steven Pressfield",
+    "description": "A compelling book on money.",
+    "genre": "Finance",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000042-L.jpg",
+    "price": 603,
+    "rating": 4.8,
+    "id": "egcq"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "description": "A compelling book on money.",
+    "genre": "Psychology",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000043-L.jpg",
+    "price": 649,
+    "rating": 3.9,
+    "id": "tfrt"
+  },
+  {
+    "title": "Your Money or Your Life",
+    "author": "Vicki Robin",
+    "description": "A compelling book on growth.",
+    "genre": "Self-help",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000044-L.jpg",
+    "price": 296,
+    "rating": 4.8,
+    "id": "rbfp"
+  },
+  {
+    "title": "Who Moved My Cheese?",
+    "author": "Spencer Johnson",
+    "description": "A compelling book on focus.",
+    "genre": "Spirituality",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000045-L.jpg",
+    "price": 678,
+    "rating": 4.3,
+    "id": "uukq"
+  },
+  {
+    "title": "Crucial Conversations",
+    "author": "Kerry Patterson",
+    "description": "A compelling book on focus.",
+    "genre": "Business",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000046-L.jpg",
+    "price": 686,
+    "rating": 4.3,
+    "id": "fdei"
+  },
+  {
+    "title": "Eat That Frog!",
+    "author": "Brian Tracy",
+    "description": "A compelling book on growth.",
+    "genre": "Finance",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000047-L.jpg",
+    "price": 486,
+    "rating": 4.9,
+    "id": "bzmy"
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "description": "A compelling book on business.",
+    "genre": "Creativity",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000048-L.jpg",
+    "price": 300,
+    "rating": 4.5,
+    "id": "fuxv"
+  },
+  {
+    "title": "Measure What Matters",
+    "author": "John Doerr",
+    "description": "A compelling book on focus.",
+    "genre": "Spirituality",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000049-L.jpg",
+    "price": 675,
+    "rating": 3.7,
+    "id": "owse"
+  },
+  {
+    "title": "On Writing",
+    "author": "Stephen King",
+    "description": "A compelling book on money.",
+    "genre": "Productivity",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000050-L.jpg",
+    "price": 355,
+    "rating": 4.4,
+    "id": "bvqp"
+  },
+  {
+    "title": "The Art of Happiness",
+    "author": "Dalai Lama",
+    "description": "A compelling book on habits.",
+    "genre": "Spirituality",
+    "coverImage": "https://covers.openlibrary.org/b/id/1000051-L.jpg",
+    "price": 679,
+    "rating": 4.3,
+    "id": "ibhy"
+  }
+]
